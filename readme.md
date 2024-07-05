@@ -2,7 +2,7 @@
 
 ## run this projects you need some tools/technology
 
-`1.xammp soferware`
+`1.xammp sofeware`
 `2.mysql database`
 `3.browers`
 
